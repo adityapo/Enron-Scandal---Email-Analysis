@@ -1,4 +1,4 @@
-# Enron-Scandal---Email-Analysis
+# Enron Scandal - Email Analysis
 
 The Enron scandal, publicized in October 2001, eventually led to the bankruptcy of the Enron Corporation, an American energy company, and the de facto dissolution of Arthur Andersen, which was one of the five largest audit and accountancy partnerships in the world. In addition to being the largest bankruptcy reorganization in American history at that time, Enron was cited as the biggest audit failure. The leadership at Enron used accounting loopholes, special purpose entities, and poor financial reporting to hide billions of dollars in debt from failed deals and projects. Exposure of this scandal to the public led to the demise of the firm.
 
