@@ -1,1 +1,5 @@
 # Enron-Scandal---Email-Analysis
+
+The Enron scandal, publicized in October 2001, eventually led to the bankruptcy of the Enron Corporation, an American energy company, and the de facto dissolution of Arthur Andersen, which was one of the five largest audit and accountancy partnerships in the world. In addition to being the largest bankruptcy reorganization in American history at that time, Enron was cited as the biggest audit failure. The leadership at Enron used accounting loopholes, special purpose entities, and poor financial reporting to hide billions of dollars in debt from failed deals and projects. Exposure of this scandal to the public led to the demise of the firm.
+
+In this project, our goal will be to analyze the emails exchanged amongst employees within the company in the surrounding timeframe of the scandals publicization. We will attempt to perform numerous time series analysis to identify whether there are any indicators for the scandal prior to its publicization. An attempt will also be made at leveraging Python’s NLTK library to run text analytic techniques such as sentiment analysis to analyze the emails for sentiment trends.
